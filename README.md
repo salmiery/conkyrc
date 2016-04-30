@@ -1,9 +1,11 @@
 Conky configuration file
 ========================
 
+Forked from http://github.com/zenzire/conkyrc/
+
 This is my Conky configuration files. 
 
-![Conky](https://raw.github.com/zenzire/conkyrc/master/screenshot.png)
+![Conky](https://i.imgur.com/sBWfERn.png)
 
 
 Installation
@@ -12,7 +14,7 @@ Installation
 Fetch the configuration files from GitHub repository:
 
 ``
-$ git clone git://github.com/zenzire/conkyrc.git ~/.conky
+$ git clone git://github.com/salmiery/conkyrc.git ~/.conky
 ``
 
 Create link:
@@ -31,4 +33,5 @@ Features
 * memory graph
 * network graph
 * processes 
+* calendar
 
